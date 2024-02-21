@@ -22,7 +22,7 @@ helptext =  """
 parser = argparse.ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter)
 parser.add_argument("--url", help="target url in the format https://localhost", default=False, action="store", required=True)
 parser.add_argument("--username", help="username to add", required=False, action="store")
-parser.add_argument("--password", help="password to add", required=False, action="store")
+parser.add_argument("--password", help="password to add (must be at least 8 characters in length)", required=False, action="store")
 try:
     args = parser.parse_args()
 except:
