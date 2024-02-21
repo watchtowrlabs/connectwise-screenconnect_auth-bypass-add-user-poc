@@ -6,5 +6,5 @@ A Proof of Concept developed by @watchTowr to exploit an authentication bypass t
 
 - https://labs.watchtowr.com/
 - https://twitter.com/watchtowrcyber
-
-
+- https://www.bleepingcomputer.com/news/security/connectwise-urges-screenconnect-admins-to-patch-critical-rce-flaw/
+- https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
