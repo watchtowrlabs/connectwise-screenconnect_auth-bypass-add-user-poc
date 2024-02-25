@@ -9,3 +9,4 @@ A Proof of Concept developed by @watchTowr to exploit an authentication bypass t
 - https://www.bleepingcomputer.com/news/security/connectwise-urges-screenconnect-admins-to-patch-critical-rce-flaw/
 - https://www.bleepingcomputer.com/news/security/screenconnect-critical-bug-now-under-attack-as-exploit-code-emerges/
 - https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
+- Metasploit RCE module - https://github.com/rapid7/metasploit-framework/pull/18870
